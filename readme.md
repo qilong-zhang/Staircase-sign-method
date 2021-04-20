@@ -22,7 +22,7 @@ the transferability (i.e. on average, **5.1%** for normally trained models and *
   - [Normlly trained models](https://github.com/tensorflow/models/tree/master/research/slim#Pretrained)
   - [Ensemble  adversarial trained models](https://github.com/tensorflow/models/tree/master/research/adv_imagenet_models?spm=5176.12282029.0.0.3a9e79b7cynrQf)
   
-- Then put these models into ".models/"
+- Then put these models into `".models/"`
 
 - Run the code
 
@@ -34,7 +34,7 @@ the transferability (i.e. on average, **5.1%** for normally trained models and *
   python Github_SSM_EAT.py   # if the victim's model is in ensemble adversarially trained models
   ```
 
-- The output images are in "output/"
+- The output images are in `"output/"`
 
 ## Visualization
 <p align="center">
