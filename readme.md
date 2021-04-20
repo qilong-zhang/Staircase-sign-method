@@ -1,5 +1,5 @@
 # Staircase Sign Method for Boosting Adversarial Attacks 
-This is the **Tensorflow code**  for our ArXiv paper "Staircase Sign Method for Boosting Adversarial Attacks ".  
+This is the **Tensorflow code**  for our ArXiv paper "Staircase Sign Method for Boosting Adversarial Attacks". Pytorch version can be found [here](https://github.com/qilong-zhang/CVPR2021-Competition-Unrestricted-Adversarial-Attacks-on-ImageNet).
 
 In our paper, we rethink the limitation of **Sign-based method (SM)**, e.g., I-FGSM, and propose a novel **Staircase Sign Method (SSM)** to alleviate this issue, thus boosting  both **targeted** and **non-targeted** transfer-based attacks. Comparing with state-of-the-art targeted attacks, we significantly improve
 the transferability (i.e. on average, **5.1%** for normally trained models and **11.2%** for adversarially trained defenses). 
