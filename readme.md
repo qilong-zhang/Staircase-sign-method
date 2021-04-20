@@ -39,8 +39,8 @@ the transferability (i.e. on average, **5.1%** for normally trained models and *
 ## Results
 
 <p align="center">
-< img src="https://github.com/qilong-zhang/patch-wise-iterative-attack/blob/master/readme_img/illustration.png"/>
-< img src="https://github.com/qilong-zhang/patch-wise-iterative-attack/blob/master/readme_img/result.png"/>
+< img src="https://github.com/qilong-zhang/Staircase-sign-method/blob/main/readme_img/illustration.png"/>
+< img src="https://github.com/qilong-zhang/Staircase-sign-method/blob/main/readme_img/result.png"/>
 </p>
 
 ## Citing this work
