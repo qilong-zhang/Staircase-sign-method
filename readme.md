@@ -56,6 +56,6 @@ If you find this work is useful in your research, please consider citing:
     author={Gao, Lianli and Zhang, Qilong and Zhu, Xiaosu and Song, Jingkuan and Shen, Hengtao},
     journal   = {CoRR},
     volume    = {abs/2012.15503},
-    year      = {2020},
+    year      = {2020}
 }
 ```
