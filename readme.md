@@ -1,7 +1,7 @@
 # Staircase Sign Method for Boosting Adversarial Attacks 
 This is the **Tensorflow code**  for our ArXiv paper "Staircase Sign Method for Boosting Adversarial Attacks ".  
 
-In our paper, we rethink the limitation of **Sign-based method (SM)**, e.g., I-FGSM, and propose a novel **Staircase Sign Method (SSM)** to alleviate this issue, thus boosting  **both targeted and non-targeted transfer-based attacks**. Comparing with state-of-the-art attacks, we significantly improve
+In our paper, we rethink the limitation of **Sign-based method (SM)**, e.g., I-FGSM, and propose a novel **Staircase Sign Method (SSM)** to alleviate this issue, thus boosting  both **targeted** and **non-targeted** transfer-based attacks. Comparing with state-of-the-art attacks, we significantly improve
 the transferability (i.e. on average, **5.1%** for normally trained models and **11.2%** for adversarially trained defenses). 
 
 ✏ *We hope that our proposed method can completely replace the existing SM, not only in terms of transfer-based attacks (e.g. query-based attack). We encourage you to test our SSM and demonstrate the effectiveness of  this algorithm. If you have any questions, please feel free to contact me.*
