@@ -41,7 +41,7 @@ the transferability (i.e. on average, **5.1%** for normally trained models and *
 <img src="https://github.com/qilong-zhang/Staircase-sign-method/blob/main/readme_img/illustration.png"/>
 </p>
 
-## Results
+## Experimental Results
 <p align="center">
 <img src="https://github.com/qilong-zhang/Staircase-sign-method/blob/main/readme_img/result.png"/>
 </p>
