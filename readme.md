@@ -14,6 +14,7 @@ the transferability (i.e. on average, **5.1%** for normally trained models and *
   - Python 3.7
   - Tensorflow 1.14.0
   - pandas 1.1.3
+  - gast 0.2.2
   - matplotlib 3.3.4
   - tqdm 4.43.0
 
