@@ -21,7 +21,7 @@ the transferability (i.e. on average, **5.1%** for normally trained models and *
 - Download the models
 
   - [Normlly trained models](https://github.com/tensorflow/models/tree/master/research/slim#Pretrained)
-  - [Ensemble  adversarial trained models](https://github.com/tensorflow/models/tree/master/research/adv_imagenet_models?spm=5176.12282029.0.0.3a9e79b7cynrQf)
+  - [Ensemble  adversarial trained models](https://github.com/tensorflow/models/tree/archive/research/adv_imagenet_models)
   
 - Then put these models into `"models/"`
 
