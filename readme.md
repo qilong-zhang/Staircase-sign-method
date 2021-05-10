@@ -52,7 +52,7 @@ the transferability (i.e. on average, **5.1%** for normally trained models and *
 If you find this work is useful in your research, please consider citing:
 
 ```
-@inproceedings{GaoZhang2021SSM,
+@article{GaoZhang2021SSM,
     title={Staircase Sign Method for Boosting Adversarial Attacks},
     author={Gao, Lianli and Zhang, Qilong and Zhu, Xiaosu and Song, Jingkuan and Shen, Hengtao},
     journal   = {CoRR},
