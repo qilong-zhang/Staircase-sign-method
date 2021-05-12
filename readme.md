@@ -26,13 +26,13 @@ the transferability (i.e. on average, **5.1%** for normally trained models and *
 - Then put these models into `"models/"`
 
 - Run the code
-
+  - If the victim's model is in normally trained models
   ```python
-  python attack_iter_SSM_NT.py   # if the victim's model is in normally trained models
+  python attack_iter_SSM_NT.py  # the vanilla I-FGSSM attack method
   ```
-
+  - If the victim's model is in ensemble adversarially trained models  
   ```python
-  python attack_iter_SSM_EAT.py   # if the victim's model is in ensemble adversarially trained models
+  python attack_iter_SSM_EAT.py  # the more powerful P-T-DI2++-FGSSM
   ```
 
 - The output images are in `"output/"`
