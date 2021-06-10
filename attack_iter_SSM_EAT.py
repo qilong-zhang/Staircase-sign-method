@@ -220,7 +220,7 @@ def main(_):
                 adv_img, num_classes=num_classes, is_training=False, scope='EnsAdvInceptionResnetV2')
         pre_ensadv_res_v2 = tf.argmax(logits_ensadv_res_v2, 1)
 
-        pre_ensemble_logit = tf.argmax((logits_resnet_152 + logits_v4 + logits_v3 +\
+        pre_ensemble_logit = tf.argmax((logits_resnet_152 + logits_v4 + logits_v3 + + logits_resnet_101 + logits_resnet_50 +\
                                         logits_Incres + logits_ens3_adv_v3 + logits_ens4_adv_v3), 1)
 
         mean_pert = 0.0
