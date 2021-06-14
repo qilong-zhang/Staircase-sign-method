@@ -53,7 +53,7 @@ tf.flags.DEFINE_float('amplification_factor', 10.0, 'To amplifythe step size.')
 FLAGS = tf.flags.FLAGS
 
 num_of_K = 1.5625  # staircase number K
-T_kern = gkern(15, 3)  # for TI-FGSM
+T_kern = gkern(5, 3)  # for TI-FGSM
 P_kern, kern_size = project_kern(3)  # for PI-FGSM
 
 
